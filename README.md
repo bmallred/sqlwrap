@@ -1,3 +1,4 @@
 sqlwrap
 =======
 
+Command line utility
